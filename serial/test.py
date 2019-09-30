@@ -76,6 +76,7 @@ while True:
           count=count+1
       if (count%6==0) : 
          sql = "INSERT INTO data_nct (temp,humi,lux,pH,ec,water_temp) value (%s,%s,%s,%s,%s,%s)"
+         
          val = (count_t,count_h,count_l,count_p,count_e,count_wt)
          mycursor.execute(sql,val)
          mydb.commit()
