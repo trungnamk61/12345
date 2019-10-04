@@ -14,7 +14,7 @@ mydb = mysql.connector.connect(
 mycursor = mydb.cursor()
 
 #thingsboard configure
-client - mqtt.Client()
+client = mqtt.Client()
 client.username_pw_set(ACCESS_TOKEN)
 client.connect(THINGSBOARD_HOST, 1883, 60)
 client.loop_start()
@@ -88,18 +88,33 @@ while True:
           count=count+1
       if (count%6==0) : 
          x = datetime.datetime.now()
+         print (x)
          sql = "INSERT INTO data_nct (temp,humi,lux,pH,ec,water_temp,timestamp) value (%s,%s,%s,%s,%s,%s,%s)"  
          val = (count_t,count_h,count_l,count_p,count_e,count_wt,x)
          mycursor.execute(sql,val)
          mydb.commit()
-         if (count_t == 0 || count_h == 0 || count_l == 0 || count_p ==0 || count_e == 0 || count_wt == 0) :
-             status['status'] = 'Sensor is not active'
+         if (count_t == 0 || count_h == 0 ) :
+             status['status'] = 'DHT22 is not active'
+             client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+         else if (count_l == -1):
+             status['status'] = 'BH1750 is not active'
+             client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+         else if( count_wt == 0) :
+             status['status'] = 'Sensor water is not active'
+             client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+         else if ( count_e ==0) :
+             status['status'] = 'EC is not active'
+             client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+         else if (count_p <=13.3 && count_p >= 13.27) :
+             status['status'] = 'pH is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
          else :
              status['status'] = 'Sensor is active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
       file.write(c)
       file.seek(0,2)
+status['status'] = 'Not Active'
+client.publish('v1/devices/me/telemetry',json.dumps(status),1)
 client.loop_stop()
 client.disconnect()
 file.close()
