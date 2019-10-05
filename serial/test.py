@@ -2,6 +2,8 @@ import serial
 import mysql.connector
 import paho.mqtt.client as mqtt
 import datetime
+import json
+import time
 THINGSBOARD_HOST = 'demo.thingsboard.io'
 ACCESS_TOKEN = 'Y3wJ8SUkSDe2CIdXKWdu'
 #database configure
@@ -43,12 +45,12 @@ while True:
       file.write(a)
       a=a.decode()
       a=a.rstrip()
-      
       #print(a)
       b = serialfromarduino.readline() 
       c = b
-      b=b.decode()
+      #b=b.decode()
       b=b.rstrip()
+      b=float(b)
       #print(type(b))
       if (a == 'Temperature') :
           count_t=b 
@@ -93,24 +95,30 @@ while True:
          val = (count_t,count_h,count_l,count_p,count_e,count_wt,x)
          mycursor.execute(sql,val)
          mydb.commit()
-         if (count_t == 0 || count_h == 0 ) :
+         if (count_t == 0.000 and count_h ==0 ) :
              status['status'] = 'DHT22 is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-         else if (count_l == -1):
+             time.sleep(1)
+         if (count_l == -1.000):
              status['status'] = 'BH1750 is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-         else if( count_wt == 0) :
+             time.sleep(1)
+         if( count_wt == 0.000) :
              status['status'] = 'Sensor water is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-         else if ( count_e ==0) :
+             time.sleep(1)
+         if ( count_e ==0.000) :
              status['status'] = 'EC is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-         else if (count_p <=13.3 && count_p >= 13.27) :
+             time.sleep(1)
+         if (count_p <=13.350 and count_p >= 13.270) :
              status['status'] = 'pH is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-         else :
+             time.sleep(1)
+         if (count_t > 0 and count_h > 0 and count_l > 0 and count_e > 0 and count_p >13.350 and count_p <13.270 and count_wt > 0):
              status['status'] = 'Sensor is active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+             time.sleep(1)
       file.write(c)
       file.seek(0,2)
 status['status'] = 'Not Active'
