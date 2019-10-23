@@ -41,6 +41,7 @@ lux = []
 status = {'status' : ''}
 while True:
  if(serialfromarduino.inWaiting()>0) : 
+      mycursor = mydb.cursor()
       a = serialfromarduino.readline() 
       file.write(a)
       a=a.decode()
@@ -58,72 +59,84 @@ while True:
           print ("Temp:")
           print (temp)
           count=count+1
+          file.write(c)
       if (a == 'WaterTemperature') :
           count_wt=b  
           watertemp.append(b)
           print ("Water temp:")
           print (watertemp)
           count=count+1
+          file.write(c)
       if (a == 'Humidity') : 
           count_h=b 
           humi.append(b)
           print ("Humi:")
           print (humi)
           count=count+1
+          file.write(c)
       if (a == 'EC') : 
           count_e=b 
           ec.append(b)
           print ("EC:")
           print (ec)
           count=count+1
+          file.write(c)
       if (a == 'pH') : 
           count_p=b 
           ph.append(b)
           print ("pH:")
           print (ph)
           count=count+1
+          file.write(c)
       if (a == 'LightIntensity') : 
           count_l=b 
           lux.append(b)
           print ("Light Intensity:")
           print (lux)
           count=count+1
+          file.write(c)
       if (count%6==0) : 
          x = datetime.datetime.now()
+         x = str(x)
          print (x)
+         file.write(x+'\n')
          sql = "INSERT INTO data_nct (temp,humi,lux,pH,ec,water_temp,timestamp) value (%s,%s,%s,%s,%s,%s,%s)"  
          val = (count_t,count_h,count_l,count_p,count_e,count_wt,x)
          mycursor.execute(sql,val)
          mydb.commit()
          if (count_t == 0.000 and count_h ==0 ) :
-             status['status'] = 'DHT22 is not active'
+             status['Status'] = 'DHT22 is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
              time.sleep(1)
          if (count_l == -1.000):
-             status['status'] = 'BH1750 is not active'
+             status['Status'] = 'BH1750 is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
              time.sleep(1)
          if( count_wt == 0.000) :
-             status['status'] = 'Sensor water is not active'
+             status['Status'] = 'Sensor water is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
              time.sleep(1)
          if ( count_e ==0.000) :
-             status['status'] = 'EC is not active'
+             status['Status'] = 'EC is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
              time.sleep(1)
          if (count_p <=13.350 and count_p >= 13.270) :
-             status['status'] = 'pH is not active'
+             status['Status'] = 'pH is not active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
              time.sleep(1)
-         if (count_t > 0 and count_h > 0 and count_l > 0 and count_e > 0 and count_p >13.350 and count_p <13.270 and count_wt > 0):
-             status['status'] = 'Sensor is active'
+         if (count_t > 0 and count_h > 0 and count_l > 0 and count_e > 0 and  count_p <13.270 and count_wt > 0):
+             status['Status'] = 'Sensor is active'
              client.publish('v1/devices/me/telemetry',json.dumps(status),1)
              time.sleep(1)
-      file.write(c)
+         mydb = mysql.connector.connect(
+         host="us-cdbr-iron-east-02.cleardb.net",
+         user="b801f230629d30",
+         passwd="91690179",
+         database="heroku_c56b50141fa0f31"
+         )
+         mycursor = mydb.cursor()
       file.seek(0,2)
-status['status'] = 'Not Active'
-client.publish('v1/devices/me/telemetry',json.dumps(status),1)
 client.loop_stop()
-client.disconnect()
+client.disconnect()   
 file.close()
 
