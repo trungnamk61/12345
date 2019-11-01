@@ -630,3 +630,3677 @@ pH
 LightIntensity
 -1.0
 2019-10-29 22:31:15.474069
+ESP_ERROR_CHECK failed: esp_err_t 0xffffffff (ESP_FAIL) at 0x4008a624
+[0;32mI (128) cpu_start: Pro cpu up.[0m
+ets Jun  8 2016 00:22:57
+ets Jun  8 2016 00:22:57
+ets Jun  8 2016 00:22:57
+ets Jun  8 2016 00:22:57
+ets Jun  8 2016 00:22:57
+ets Jun  8 2016 00:22:57
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+ets Jun  8 2016 00:22:57
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x1f (SPI_FAST_FLASH_BOOT)
+ets_main.c 371 
+
+flash read err, 1000
+Temperature
+Temperature
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-10-31 15:37:53.288804
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-10-31 15:42:55.256698
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-10-31 15:57:59.600510
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-10-31 16:03:01.166160
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-10-31 16:08:02.774757
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-10-31 16:23:08.327896
+Temperature
+0.000
+
+Temperature
+0.000
+WaterTemperature
+0.000
+Temperature
+0.000
+WaterTemperature
+0.000
+Temperature
+0.000
+WaterTemperature
+0.000
+Temperature
+0.000
+WaterTemperature
+0.000
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-10-31 17:23:27.409737
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-10-31 17:28:28.940937
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-10-31 17:33:30.418111
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-10-31 17:38:31.989541
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 10:05:50.893896
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 10:10:52.463959
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 10:15:54.031201
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 13:50:11.709713
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 13:55:13.299306
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 14:25:25.904752
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 14:30:27.456608
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 14:35:29.082196
+ets Jun  8 2016 00:22:57
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+load:0x3fff0018,len:4
+load:0x40078000,len:9780
+entry 0x40080708
+[0;32mI (156) cpu_start: Starting app cpu, entry point is 0x40081054[0m
+[0;32mI (159) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (172) heap_init: At 3FFB3148 len 0002CEB8 (179 KiB): DRAM[0m
+[0;32mI (184) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
+[0;32mI (197) cpu_start: Pro cpu start user code[0m
+[0;32mI (0) cpu_start: Starting scheduler on APP CPU.[0m
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 14:37:52.384145
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 14:42:53.952912
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 14:47:54.529256
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 14:52:58.259143
+Temperature
+0.000
+WaterTemperature
+0.000
+Humidity
+0.0
+EC
+0.000
+pH
+17.650
+LightIntensity
+-1.0
+2019-11-01 15:13:02.653947
+ets Jun  8 2016 00:22:57
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+load:0x3fÃf0018Xlen:4
+ets Jun  8 2016 00:22:57
+rst:0x1 (†OWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+etÁ Jun êíÇä≤ÇÇ“íí“™rj
