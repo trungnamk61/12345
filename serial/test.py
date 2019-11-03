@@ -20,170 +20,116 @@ def database() :
     passwd="91690179",
     database="heroku_c56b50141fa0f31"
     )
-    mycursor = mydb.cursor()
-    sql = "INSERT INTO data_nct (temp,humi,lux,pH,ec,water_temp,timestamp) value (%s,%s,%s,%s,%s,%s,%s)"  
-    val = (count_t,count_h,count_l,count_p,count_e,count_wt,date)
-    mycursor.execute(sql,val)
-    mydb.commit()
+   
     mydb.close()
-def data_offline():
-    if(serialfromarduino.inWaiting()>0) : 
-	    a  = serialfromarduino.readline() 
-	    file.write(a)	
-	    a=a.decode()
-	    a=a.rstrip()
-	    b = serialfromarduino.readline() 
-	    c = b
-	    b=b.rstrip()
-	    #b=float(b)
-	    if (a == 'Temperature') :
-                count_t=b 
-	        temp.append(b)
-	        print ("Temp:")
-	        print (temp)
-	        #count=count+1
-	        file.write(c)
-	    if (a == 'WaterTemperature') :
-	        count_wt=b  
-	        watertemp.append(b)
-	        print ("Water temp:")
-	        print (watertemp)
-	        #count=count+1
-	        file.write(c)
-	    if (a == 'Humidity') : 
-	        count_h=b 
-	        humi.append(b)
-	        print ("Humi:")
-	        print (humi)
-	        #count=count+1
-	        file.write(c)
-	    if (a == 'EC') : 
-	        count_e=b 
-	        ec.append(b)
-	        print ("EC:")
-	        print (ec)
-	        #count=count+1
-	        file.write(c)
-	    if (a == 'pH') : 
-	        count_p=b 
-	        ph.append(b)
-	        print ("pH:")
-	        print (ph)
-	        #count=count+1
-	        file.write(c)
-	    if (a == 'LightIntensity') : 
-	        count_l=b 
-	        lux.append(b)
-        	print ("Light Intensity:")
-        	print (lux)
-        	#count=count+1
-        	file.write(c)
-        	date = datetime.datetime.now()
-        	date = str(date)
-        	print (date)
-        	file.write(date+'\n') 
-    	    file.seek(0,2)
 
 def getdata():
-     global  date 
-     global  count_t 
-     global  count_h
-     global  count_e 
-     global  count_p 
-     global  count_l 
-     global  count_wt
-     while True : 
-       try :
-          client.connect(THINGSBOARD_HOST, 1883, 60)
-	    
-       except : 
-          print("Error connect thingsboard when get data!")
-	  break;
-       else : 
-    	 if(serialfromarduino.inWaiting() == 0) : break;
-    	 if(serialfromarduino.inWaiting()>0) : 
-	    a  = serialfromarduino.readline() 
-	    file.write(a)	
-	    a=a.decode()
-	    a=a.rstrip()
-	    b = serialfromarduino.readline() 
-	    c = b
-	    b=b.rstrip()
-	    #b=float(b)
-	    if (a == 'Temperature') :
-                count_t=b 
-	        temp.append(b)
-	        print ("Temp:")
-	        print (temp)
-	        #count=count+1
-	        file.write(c)
-	    if (a == 'WaterTemperature') :
-	        count_wt=b  
-	        watertemp.append(b)
-	        print ("Water temp:")
-	        print (watertemp)
-	        #count=count+1
-	        file.write(c)
-	    if (a == 'Humidity') : 
-	        count_h=b 
-	        humi.append(b)
-	        print ("Humi:")
-	        print (humi)
-	        #count=count+1
-	        file.write(c)
-	    if (a == 'EC') : 
-	        count_e=b 
-	        ec.append(b)
-	        print ("EC:")
-	        print (ec)
-	        #count=count+1
-	        file.write(c)
-	    if (a == 'pH') : 
-	        count_p=b 
-	        ph.append(b)
-	        print ("pH:")
-	        print (ph)
-	        #count=count+1
-	        file.write(c)
-	    if (a == 'LightIntensity') : 
-	        count_l=b 
-	        lux.append(b)
-        	print ("Light Intensity:")
-        	print (lux)
-        	#count=count+1
-        	file.write(c)
-        	date = datetime.datetime.now()
-        	date = str(date)
-        	print (date)
-        	file.write(date+'\n') 
-        	database()
-            	if (count_t == 0.000 or count_h ==0 ) :
-            		status['Status'] = 'DHT22 is not active'
-            		client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-            		time.sleep(1)
-        	if (count_l == -1.000 or count_l == 0.000):
-            		status['Status'] = 'BH1750 is not active'
-            		client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-            		time.sleep(1)
-        	if( count_wt == 0.000) :
-            		status['Status'] = 'Sensor water is not active'
-            		client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-            		time.sleep(1)
-        	if ( count_e == 0.000) :
-            		status['Status'] = 'EC is not active'
-            		client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-            		time.sleep(1)
-        	if (count_p <=13.350 and count_p >= 13.270) :
-            		status['Status'] = 'pH is not active'
-            		client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-            		time.sleep(1)
-        	if (count_t > 0 and count_h > 0 and count_l > 0 and count_e > 0 and  count_p <13.270 and count_wt > 0):
-            		status['Status'] = 'Sensor is active'
-            		client.publish('v1/devices/me/telemetry',json.dumps(status),1)
-            		time.sleep(1)
-    	    file.seek(0,2)
+    global  date 
+    global  count_t 
+    global  count_h
+    global  count_e 
+    global  count_p 
+    global  count_l 
+    global  count_wt
+    a  = serialfromarduino.readline() 
+    file.write(a)
+    a=a.decode()
+    a=a.rstrip()
+    b = serialfromarduino.readline() 
+    c = b
+    b=b.rstrip()
+    b=float(b)
+    if (a == 'Temperature') :
+        count_t=b 
+        temp.append(b)
+        print ("Temp:")
+        print (temp)
+        #count=count+1
+        file.write(c)
+    if (a == 'WaterTemperature') :
+        count_wt=b  
+        watertemp.append(b)
+        print ("Water temp:")
+        print (watertemp)
+        #count=count+1
+        file.write(c)
+    if (a == 'Humidity') : 
+        count_h=b 
+        humi.append(b)
+        print ("Humi:")
+        print (humi)
+        #count=count+1
+        file.write(c)
+    if (a == 'EC') : 
+        count_e=b 
+        ec.append(b)
+        print ("EC:")
+        print (ec)
+        #count=count+1
+        file.write(c)
+    if (a == 'pH') : 
+        count_p=b 
+        ph.append(b)
+        print ("pH:")
+        print (ph)
+        #count=count+1
+        file.write(c)
+    if (a == 'LightIntensity') : 
+        count_l=b 
+        lux.append(b)
+        print ("Light Intensity:")
+        print (lux)
+        #count=count+1
+        file.write(c)
+        date = datetime.datetime.now()
+        date = str(date)
+        print (date)
+        file.write(date+'\n') 
+        mydb = mysql.connector.connect(
+    	host="us-cdbr-iron-east-02.cleardb.net",
+    	user="b801f230629d30",
+    	passwd="91690179",
+    	database="heroku_c56b50141fa0f31"
+    	)
+        mycursor = mydb.cursor()
+        sql = "INSERT INTO data_nct (temp,humi,lux,pH,ec,water_temp,timestamp) value (%s,%s,%s,%s,%s,%s,%s)"  
+        val = (count_t,count_h,count_l,count_p,count_e,count_wt,date)
+        mycursor.execute(sql,val)
+        mydb.commit()
+	mydb.close()
+        if (count_t == 0.000 or count_h ==0 ) :
+            status['Status'] = 'DHT22 is not active'
+            client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+            time.sleep(1)
+        if (count_l == -1.000 or count_l == 0.000):
+            status['Status'] = 'BH1750 is not active'
+            client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+            time.sleep(1)
+        if( count_wt == 0.000) :
+            status['Status'] = 'Sensor water is not active'
+            client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+            time.sleep(1)
+        if ( count_e == 0.000) :
+            status['Status'] = 'EC is not active'
+            client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+            time.sleep(1)
+        if (count_p <=13.350 and count_p >= 13.270) :
+            status['Status'] = 'pH is not active'
+            client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+            time.sleep(1)
+        if (count_t > 0 and count_h > 0 and count_l > 0 and count_e > 0 and  count_p <13.270 and count_wt > 0):
+            status['Status'] = 'Sensor is active'
+            client.publish('v1/devices/me/telemetry',json.dumps(status),1)
+            time.sleep(1)
+    file.seek(0,2)
 def main():
-
+    global  date 
+    global  count_t 
+    global  count_h
+    global  count_e 
+    global  count_p 
+    global  count_l 
+    global  count_wt
     global serialfromarduino
     global client
     global file
@@ -199,33 +145,13 @@ def main():
     port = "/dev/ttyUSB0"
     serialfromarduino = serial.Serial(port,115200)  
     file = open ("data.txt","a+")
-    getdata()
-    client.loop_stop()
-    client.disconnect()   
-    file.close()
-
-THINGSBOARD_HOST = 'demo.thingsboard.io' 
-ACCESS_TOKEN = 'Y3wJ8SUkSDe2CIdXKWdu'
-port = "/dev/ttyUSB0"
-while True :
-    time.sleep(1)
-    try :
-      file = open ("data.txt","a+")
-    except :
-      print("File doesn't open !")
-    else : 
-      try :
-		serialfromarduino = serial.Serial(port,115200) 
-      except :
-		print("Serial port disconnect ! ")
-      else :
+    while True:
+     	if(serialfromarduino.inWaiting()>0) : 
 		try:
-			
-      			client = mqtt.Client()
-      			client.username_pw_set(ACCESS_TOKEN)
       			client.connect(THINGSBOARD_HOST, 1883, 60)
 		except :
 	 		print("MQTT disconnect ! ")
+			time.sleep(1)
 		else :
 			try :
 				mydb = mysql.connector.connect(
@@ -236,5 +162,49 @@ while True :
     				)
 			except :
 				print("Database disconnect !!!")
-			else :
+				time.sleep(1)
+			else :  
+				print("Internet connected !!!")
+       				getdata()
+    client.loop_stop()
+    client.disconnect()   
+    file.close()
+THINGSBOARD_HOST = 'demo.thingsboard.io' 
+ACCESS_TOKEN = 'Y3wJ8SUkSDe2CIdXKWdu'
+port = "/dev/ttyUSB0"
+while True :
+    time.sleep(1)
+    try :
+      file = open ("data.txt","a+")
+      file.close
+    except :
+      print("File doesn't open !")
+    else : 
+      try :
+		port = "/dev/ttyUSB0"
+		serialfromarduino = serial.Serial(port,115200) 
+      except :
+		print("Serial port disconnect ! ")
+      else :
+		try:
+			
+      			client = mqtt.Client()
+      			client.username_pw_set(ACCESS_TOKEN)
+      			client.connect(THINGSBOARD_HOST, 1883, 60)
+			client.disconnect()
+		except :
+	 		print("MQTT disconnect ! ")
+		else :
+			try :
+				mydb = mysql.connector.connect(
+    				host="us-cdbr-iron-east-02.cleardb.net",
+    				user="b801f230629d30",
+    				passwd="91690179",
+    				database="heroku_c56b50141fa0f31"
+    				)
+				mydb.close()
+			except :
+				print("Database disconnect !!!")
+			else :  
+				print("Internet connected !!!")
       				main()
