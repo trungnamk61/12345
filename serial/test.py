@@ -31,6 +31,7 @@ def getdata():
     global  count_p 
     global  count_l 
     global  count_wt
+    global  count
     a  = serialfromarduino.readline() 
     file.write(a)
     a=a.decode()
@@ -121,6 +122,8 @@ def getdata():
             status['Status'] = 'Sensor is active'
             client.publish('v1/devices/me/telemetry',json.dumps(status),1)
             time.sleep(1)
+	count=count+1
+	print(count)
     file.seek(0,2)
 def main():
     global  date 
@@ -130,9 +133,12 @@ def main():
     global  count_p 
     global  count_l 
     global  count_wt
+    global  count 
     global serialfromarduino
     global client
     global file
+    global count_network
+    count = 0
     THINGSBOARD_HOST = 'demo.thingsboard.io'
     ACCESS_TOKEN = 'Y3wJ8SUkSDe2CIdXKWdu'
     #thingsboard configure
@@ -150,8 +156,14 @@ def main():
 		try:
       			client.connect(THINGSBOARD_HOST, 1883, 60)
 		except :
-	 		print("MQTT disconnect ! ")
-			time.sleep(1)
+			if ( count_network == 50 ) :
+				client.loop_stop()
+   				client.disconnect()   
+    				file.close()
+				quit()
+	 		print("MQTT disconnect when get data! ")
+			count_network = count_network + 1 
+			time.sleep(5)
 		else :
 			try :
 				mydb = mysql.connector.connect(
@@ -161,22 +173,37 @@ def main():
     				database="heroku_c56b50141fa0f31"
     				)
 			except :
-				print("Database disconnect !!!")
-				time.sleep(1)
+				if ( count_network == 50 ) :
+					client.loop_stop()
+   					client.disconnect()   
+    					file.close()
+					quit()
+				print("Database disconnect when get data!!!")
+				count_network = count_network + 1 
+				time.sleep(5)
 			else :  
 				print("Internet connected !!!")
-       				getdata()
+       				getdata()		
+				if ( count == 6 ) :
+					client.loop_stop()
+   					client.disconnect()   
+    					file.close()
+					quit()
     client.loop_stop()
     client.disconnect()   
     file.close()
+start = time.time()
 THINGSBOARD_HOST = 'demo.thingsboard.io' 
 ACCESS_TOKEN = 'Y3wJ8SUkSDe2CIdXKWdu'
 port = "/dev/ttyUSB0"
 while True :
-    time.sleep(1)
+    time.sleep(10)
     try :
       file = open ("data.txt","a+")
       file.close
+    except KeyboardInterrupt :
+      del temp,watertemp,humi,ec,ph,lux,status 
+      del date,count_t,count_h,count_e,count_p,count_l,count_wt,serialfromarduino,client,file
     except :
       print("File doesn't open !")
     else : 
@@ -187,11 +214,10 @@ while True :
 		print("Serial port disconnect ! ")
       else :
 		try:
-			
       			client = mqtt.Client()
       			client.username_pw_set(ACCESS_TOKEN)
       			client.connect(THINGSBOARD_HOST, 1883, 60)
-			client.disconnect()
+			#client.disconnect()
 		except :
 	 		print("MQTT disconnect ! ")
 		else :
@@ -208,3 +234,5 @@ while True :
 			else :  
 				print("Internet connected !!!")
       				main()
+				
+    #second = time.time()
